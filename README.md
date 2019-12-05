@@ -70,11 +70,12 @@ List of tools and resources for CTFs.
 
 ### Resources
 - [XSS Scenarios](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/) - Scenarios / demonstration for typical XSS attacks.
-- [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Description of SQL Injection attack.
+- [XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) - Understanding an XXE Injection Attack.
+- [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Understanding an SQL Injection Attack.
 
 ### Tools
 - [BurpSuite Community](https://portswigger.net/burp/communitydownload) - HTTP and HTTPS traffic editing and monitoring
-- [PostBin](https://postb.in/) - GET and POST endpoint for XSS.
+- [PostBin](https://postb.in/) - GET and POST endpoint for testing requests.
 - [Firefox](https://www.mozilla.org/firefox/) - Browser with built-in proxy (easy to use with BurpSuite).
 - [Flask](https://www.flaskapi.org/) - Customize API with Python.
 - [Postman](https://www.getpostman.com/) - Customize web request
