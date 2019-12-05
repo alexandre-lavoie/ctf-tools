@@ -39,8 +39,9 @@ List of tools and resources for CTFs.
 ## Network Explotation
 
 ### Tools
-- [Wireshark](https://www.wireshark.org/) - Network traffic monitoring.
 - [ipconfig / ifconfig](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) - Get information about computer network.
+- [Wireshark](https://www.wireshark.org/) - Network traffic monitoring.
+
 
 ## Reverse Engineering 
 
@@ -48,19 +49,20 @@ List of tools and resources for CTFs.
 - [trailofbits Forensics](https://trailofbits.github.io/ctf/forensics/) - Reference for forensics challenges in CTF.
 
 ### Tools
-- [IDA Freeware](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) - Universal decompiler with Visual Graphs.
-- [Ghidra](https://ghidra-sre.org/) - Universal decompiler with C integrated.
-- [ILSpy](https://github.com/icsharpcode/ILSpy/releases) - Decompiler for C# DLL and Executables.
-- [gdb](https://www.gnu.org/software/gdb/) - Standard debugger for Linux.
-- [edb](https://tools.kali.org/reverse-engineering/edb-debugger) - Visual debugger for Linux.
-- [ollydbg](http://www.ollydbg.de/) - Visual debugger cross platform (usually for Windows).
 - [Cheat Engine](https://www.cheatengine.org/) - Data debugger for Windows.
+- [edb](https://tools.kali.org/reverse-engineering/edb-debugger) - Visual debugger for Linux.
+- [gdb](https://www.gnu.org/software/gdb/) - Standard debugger for Linux.
+- [Ghidra](https://ghidra-sre.org/) - Universal decompiler with C integrated.
+- [IDA Freeware](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) - Universal decompiler with Visual Graphs.
+- [ILSpy](https://github.com/icsharpcode/ILSpy/releases) - Decompiler for C# DLL and Executables.
+- [JD-GUI](http://java-decompiler.github.io/) - Visual Decompiler for Java
+- [ollydbg](http://www.ollydbg.de/) - Visual debugger cross platform (usually for Windows).
 
 ## Virtual Machines
 
 ### Images
-- [Kali Linux](https://www.kali.org/) - Robust Linux Cybersecurity Image.
 - [CTF-Env](https://github.com/alexandre-lavoie/ctf-env) - Linux CTF Image for Docker.
+- [Kali Linux](https://www.kali.org/) - Robust Linux Cybersecurity Image.
 
 ### Tools
 - [Docker](https://www.docker.com/) - Lightweight linux virtualization.
@@ -69,15 +71,15 @@ List of tools and resources for CTFs.
 ## Web Exploitation
 
 ### Resources
+- [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Understanding an SQL Injection Attack.
 - [XSS Scenarios](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/) - Scenarios / demonstration for typical XSS attacks.
 - [XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) - Understanding an XXE Injection Attack.
-- [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Understanding an SQL Injection Attack.
 
 ### Tools
 - [BurpSuite Community](https://portswigger.net/burp/communitydownload) - HTTP and HTTPS traffic editing and monitoring
-- [PostBin](https://postb.in/) - GET and POST endpoint for testing requests.
 - [Firefox](https://www.mozilla.org/firefox/) - Browser with built-in proxy (easy to use with BurpSuite).
 - [Flask](https://www.flaskapi.org/) - Customize API with Python.
+- [PostBin](https://postb.in/) - GET and POST endpoint for testing requests.
 - [Postman](https://www.getpostman.com/) - Customize web request
 
 ## Write-Ups and Tutorials
