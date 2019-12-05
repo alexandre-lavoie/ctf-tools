@@ -43,14 +43,15 @@ List of tools and resources for CTFs.
 - [ipconfig / ifconfig](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) - Get information about computer network.
 - [Wireshark](https://www.wireshark.org/) - Network traffic monitoring.
 
-
 ## Reverse Engineering 
 
 ### Resources
 - [trailofbits Forensics](https://trailofbits.github.io/ctf/forensics/) - Reference for forensics challenges in CTF.
 
 ### Tools
+- [Android Emulator](https://developer.android.com/studio/run/emulator) - Android Emulator
 - [Cheat Engine](https://www.cheatengine.org/) - Data debugger for Windows.
+- [dex2jar](https://github.com/pxb1988/dex2jar) - APK to JAR.
 - [edb](https://tools.kali.org/reverse-engineering/edb-debugger) - Visual debugger for Linux.
 - [gdb](https://www.gnu.org/software/gdb/) - Standard debugger for Linux.
 - [Ghidra](https://ghidra-sre.org/) - Universal decompiler with C integrated.
