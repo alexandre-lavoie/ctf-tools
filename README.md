@@ -27,6 +27,7 @@ List of tools and resources for CTFs.
 
 ### Tools
 - [binwalk](https://tools.kali.org/forensics/binwalk) - Extracts hidden files in files.
+- [WinRAR](https://www.rarlab.com/download.htm) - Decompression on Windows.
 
 ## Programming
 
