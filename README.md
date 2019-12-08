@@ -46,10 +46,11 @@ List of tools and resources for CTFs.
 ## Reverse Engineering 
 
 ### Resources
+- [ROP](https://en.wikipedia.org/wiki/Return-oriented_programming) - Reference for Return-Oriented Programming.
 - [trailofbits Forensics](https://trailofbits.github.io/ctf/forensics/) - Reference for forensics challenges in CTF.
 
 ### Tools
-- [Android Emulator](https://developer.android.com/studio/run/emulator) - Android Emulator
+- [Android Emulator](https://developer.android.com/studio/run/emulator) - Android Emulator.
 - [Cheat Engine](https://www.cheatengine.org/) - Data debugger for Windows.
 - [dex2jar](https://github.com/pxb1988/dex2jar) - APK to JAR.
 - [edb](https://tools.kali.org/reverse-engineering/edb-debugger) - Visual debugger for Linux.
@@ -57,7 +58,7 @@ List of tools and resources for CTFs.
 - [Ghidra](https://ghidra-sre.org/) - Universal decompiler with C integrated.
 - [IDA Freeware](https://www.hex-rays.com/products/ida/support/download_freeware.shtml) - Universal decompiler with Visual Graphs.
 - [ILSpy](https://github.com/icsharpcode/ILSpy/releases) - Decompiler for C# DLL and Executables.
-- [JD-GUI](http://java-decompiler.github.io/) - Visual Decompiler for Java
+- [JD-GUI](http://java-decompiler.github.io/) - Visual Decompiler for Java.
 - [ollydbg](http://www.ollydbg.de/) - Visual debugger cross platform (usually for Windows).
 
 ## Virtual Machines
