@@ -5,6 +5,7 @@ List of tools and resources for CTFs.
 - [General Tools](#general-tools)
 - [Cryptography](#cryptography)
 - [Forensics](#forensics)
+- [Pentesting](#pentesting)
 - [Programming](#programming)
 - [Network Exploitation](#network-exploitation)
 - [Reverse Engineering](#reverse-engineering)
@@ -27,7 +28,14 @@ List of tools and resources for CTFs.
 
 ### Tools
 - [binwalk](https://tools.kali.org/forensics/binwalk) - Extracts hidden files in files.
+- [gzip](https://www.gzip.org/) - Linux .gz decompressing.
 - [WinRAR](https://www.rarlab.com/download.htm) - Decompression on Windows.
+
+## Pentesting
+
+### Resources
+- [GTFOBins](https://gtfobins.github.io/) - List of base Linux vulnerable binaries.
+- [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse shell commands for various programs.
 
 ## Programming
 
@@ -76,18 +84,18 @@ List of tools and resources for CTFs.
 ## Web Exploitation
 
 ### Resources
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Reference for most web exploits. 
 - [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Understanding an SQL Injection Attack.
 - [XSS Scenarios](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/) - Scenarios / demonstration for typical XSS attacks.
 - [XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) - Understanding an XXE Injection Attack.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Reference for most web exploits. 
 
 ### Tools
 - [BurpSuite Community](https://portswigger.net/burp/communitydownload) - HTTP and HTTPS traffic editing and monitoring
 - [Firefox](https://www.mozilla.org/firefox/) - Browser with built-in proxy (easy to use with BurpSuite).
 - [Flask](https://www.flaskapi.org/) - Customize API with Python.
+- [gobuster](https://github.com/OJ/gobuster) - Website URL fuzzing.
 - [PostBin](https://postb.in/) - GET and POST endpoint for testing requests.
 - [Postman](https://www.getpostman.com/) - Customize web request.
-- [gobuster](https://github.com/OJ/gobuster) - Website URL fuzzing.
 - [wfuzz](https://github.com/xmendez/wfuzz) - Website fuzzing.
 
 ## Write-Ups and Tutorials
