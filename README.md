@@ -84,6 +84,7 @@ List of tools and resources for CTFs.
 ## Web Exploitation
 
 ### Resources
+- [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - Common security vulernerabilities.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Reference for most web exploits. 
 - [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Understanding an SQL Injection Attack.
 - [XSS Scenarios](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/) - Scenarios / demonstration for typical XSS attacks.
