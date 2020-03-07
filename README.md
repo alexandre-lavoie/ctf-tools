@@ -14,8 +14,6 @@ List of tools and resources for CTFs.
 
 ## General Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - IDE, Programming, text/binary, etc - it can do it all.
-- [Kali Linx](https://www.kali.org/) - Ethical Hacking VM.
-- [LiveOverflow Dockerfile](https://github.com/LiveOverflow/pwn_docker_example/blob/master/ctf/Dockerfile) - Dockerfile VM.
 
 ## Cryptography 
 
@@ -69,6 +67,7 @@ List of tools and resources for CTFs.
 ### Images
 - [CTF-Env](https://github.com/alexandre-lavoie/ctf-env) - Linux CTF Image for Docker.
 - [Kali Linux](https://www.kali.org/) - Robust Linux Cybersecurity Image.
+- [LiveOverflow Dockerfile](https://github.com/LiveOverflow/pwn_docker_example/blob/master/ctf/Dockerfile) - Dockerfile VM.
 
 ### Tools
 - [Docker](https://www.docker.com/) - Lightweight linux virtualization.
