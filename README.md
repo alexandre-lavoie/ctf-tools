@@ -2,7 +2,7 @@
 List of tools and resources for CTFs.
 
 ## Table of Content
-- [General Tools](#beginner-tools)
+- [General Tools](#general-tools)
 - [Cryptography](#cryptography)
 - [Forensics](#forensics)
 - [Programming](#programming)
