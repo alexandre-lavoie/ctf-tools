@@ -1,5 +1,5 @@
 # CTF Tools
-List of tools and resources for CTFs.
+List of tools and resources for Pentesting and CTFs.
 
 ## Table of Content
 - [General Tools](#general-tools)
@@ -28,6 +28,7 @@ List of tools and resources for CTFs.
 
 ### Tools
 - [binwalk](https://tools.kali.org/forensics/binwalk) - Extracts hidden files in files.
+- [HxD](https://mh-nexus.de/en/hxd/) - Hex Editor.
 - [gzip](https://www.gzip.org/) - Linux .gz decompressing.
 - [WinRAR](https://www.rarlab.com/download.htm) - Decompression on Windows.
 
@@ -35,7 +36,9 @@ List of tools and resources for CTFs.
 
 ### Resources
 - [GTFOBins](https://gtfobins.github.io/) - List of base Linux vulnerable binaries.
+- [netcat](https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/) - Simple reverse shell server.
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse shell commands for various programs.
+- [ssh](https://www.ssh.com/ssh) - Understanding the SSH protocol.
 
 ## Programming
 
@@ -48,6 +51,7 @@ List of tools and resources for CTFs.
 ## Network Explotation
 
 ### Tools
+- [aircrack-ng](https://www.aircrack-ng.org/) - Tools to analyze network traffic.
 - [ipconfig / ifconfig](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) - Get information about computer network.
 - [Wireshark](https://www.wireshark.org/) - Network traffic monitoring.
 - [nmap](https://nmap.org/) - Port analysis.
@@ -74,11 +78,12 @@ List of tools and resources for CTFs.
 
 ### Images
 - [CTF-Env](https://github.com/alexandre-lavoie/ctf-env) - Linux CTF Image for Docker.
-- [Kali Linux](https://www.kali.org/) - Robust Linux Cybersecurity Image.
 - [LiveOverflow Dockerfile](https://github.com/LiveOverflow/pwn_docker_example/blob/master/ctf/Dockerfile) - Dockerfile VM.
+- [Kali Linux](https://www.kali.org/) - Robust Linux Cybersecurity Image.
 
 ### Tools
 - [Docker](https://www.docker.com/) - Lightweight linux virtualization.
+- [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) - Windows 10 virtualization.
 - [VirutalBox](https://www.virtualbox.org/) - Full OS virutalization.
 
 ## Web Exploitation
