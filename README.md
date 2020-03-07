@@ -2,7 +2,7 @@
 List of tools and resources for CTFs.
 
 ## Table of Content
-- [Beginner Tools](#beginner-tools)
+- [General Tools](#beginner-tools)
 - [Cryptography](#cryptography)
 - [Forensics](#forensics)
 - [Programming](#programming)
@@ -12,8 +12,10 @@ List of tools and resources for CTFs.
 - [Web Exploitation](#web-exploitation)
 - [Write-Ups and Tutorials](#write-ups-and-tutorials)
 
-## Beginner Tools
+## General Tools
 - [Visual Studio Code](https://code.visualstudio.com/) - IDE, Programming, text/binary, etc - it can do it all.
+- [Kali Linx](https://www.kali.org/) - Ethical Hacking VM.
+- [LiveOverflow Dockerfile](https://github.com/LiveOverflow/pwn_docker_example/blob/master/ctf/Dockerfile) - Dockerfile VM.
 
 ## Cryptography 
 
@@ -42,6 +44,7 @@ List of tools and resources for CTFs.
 ### Tools
 - [ipconfig / ifconfig](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/ipconfig) - Get information about computer network.
 - [Wireshark](https://www.wireshark.org/) - Network traffic monitoring.
+- [nmap](https://nmap.org/) - Port analysis.
 
 ## Reverse Engineering 
 
@@ -77,13 +80,17 @@ List of tools and resources for CTFs.
 - [SQL Injection](https://www.w3schools.com/sql/sql_injection.asp) - Understanding an SQL Injection Attack.
 - [XSS Scenarios](https://pentest-tools.com/blog/xss-attacks-practical-scenarios/) - Scenarios / demonstration for typical XSS attacks.
 - [XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) - Understanding an XXE Injection Attack.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Reference for most web exploits. 
 
 ### Tools
 - [BurpSuite Community](https://portswigger.net/burp/communitydownload) - HTTP and HTTPS traffic editing and monitoring
 - [Firefox](https://www.mozilla.org/firefox/) - Browser with built-in proxy (easy to use with BurpSuite).
 - [Flask](https://www.flaskapi.org/) - Customize API with Python.
 - [PostBin](https://postb.in/) - GET and POST endpoint for testing requests.
-- [Postman](https://www.getpostman.com/) - Customize web request
+- [Postman](https://www.getpostman.com/) - Customize web request.
+- [gobuster](https://github.com/OJ/gobuster) - Website URL fuzzing.
+- [wfuzz](https://github.com/xmendez/wfuzz) - Website fuzzing.
 
 ## Write-Ups and Tutorials
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Tutorials on many cybersecurity topics and write-ups for CTFs.
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) - Write-ups on HackTheBox VMs.
