@@ -25,6 +25,7 @@ List of tools and resources for Pentesting and CTFs.
 - [gchq CyberChef](https://gchq.github.io/CyberChef/) - Encryption, encoding, compression, data analysis tool.
 - [hashcat](https://hashcat.net/hashcat/) - Hash bruteforcing.
 - [John the Ripper](https://www.openwall.com/john/) - Hash bruteforcing.
+- [password-removal](https://passwordrecovery.io/zip-file-password-removal/) - Online ZIP password removal (uses john)
 
 ## Forensics
 
