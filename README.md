@@ -106,6 +106,7 @@ List of tools and resources for Pentesting and CTFs.
 - [PostBin](https://postb.in/) - GET and POST endpoint for testing requests.
 - [Postman](https://www.getpostman.com/) - Customize web request.
 - [wfuzz](https://github.com/xmendez/wfuzz) - Website fuzzing.
+- [Flask Session Decoder](https://pypi.org/project/flask-cookie-decode/) - Decoder for `base64(payload).base64(time).base64(crypto)`.
 
 ## Write-Ups and Tutorials
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Tutorials on many cybersecurity topics and write-ups for CTFs.
