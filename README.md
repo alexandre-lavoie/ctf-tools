@@ -34,6 +34,7 @@ List of tools and resources for Pentesting and CTFs.
 - [HxD](https://mh-nexus.de/en/hxd/) - Hex Editor.
 - [gzip](https://www.gzip.org/) - Linux .gz decompressing.
 - [WinRAR](https://www.rarlab.com/download.htm) - Decompression on Windows.
+- [minimodem](http://www.whence.com/minimodem/) - Decodes modem audio file or audio source to data.
 
 ## Pentesting
 
@@ -42,11 +43,13 @@ List of tools and resources for Pentesting and CTFs.
 - [netcat](https://www.hackingtutorials.org/networking/hacking-netcat-part-2-bind-reverse-shells/) - Simple reverse shell server.
 - [Reverse Shell Cheat Sheet](http://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) - Reverse shell commands for various programs.
 - [ssh](https://www.ssh.com/ssh) - Understanding the SSH protocol.
+- [DNS](https://github.com/Shiva108/CTF-notes/blob/master/Notes%20VA/IP%2C%20DNS%20Domain%20Enumeration%20Cheatsheet.txt) - Get information from DNS server.
+- [SMTP](https://dynocs.com/2018/12/05/metaspoit-ctf-2018-writeup/) - Writeup for SMTP.
 
 ## Programming
 
 ### Languages
-- [Python](https://www.python.org/) - Useful for basically all CTF challenges. (Recommend using [Google Colab](https://colab.research.google.com/))
+- [Python](https://www.python.org/) - Useful for basically all CTF challenges (Recommend [pwntools](https://github.com/Gallopsled/pwntools)).
 
 ### Resources
 - [Esoteric Languages](https://esolangs.org/wiki/Main_Page) - Obscure programming languages.
